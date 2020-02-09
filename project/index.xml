@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Arnaud Buy</title>
+    <link>https://arnaudbuy.github.io/project/</link>
+      <atom:link href="https://arnaudbuy.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© 2020 Arnaud Buy</copyright><lastBuildDate>Sun, 09 Feb 2020 07:32:15 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://arnaudbuy.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Vision System</title>
+      <link>https://arnaudbuy.github.io/project/vision-system/</link>
+      <pubDate>Sun, 09 Feb 2020 07:32:15 +0100</pubDate>
+      <guid>https://arnaudbuy.github.io/project/vision-system/</guid>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;La motivation de ce projet est de comprendre comment je vois.&lt;/p&gt;
+&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Construire un système qui réponde à la motivation.&lt;/li&gt;
+&lt;li&gt;S&amp;rsquo;appuyer sur du matériel existant.&lt;/li&gt;
+&lt;li&gt;Développer le logiciel.&lt;/li&gt;
+&lt;li&gt;Utiliser des technologies modernes, maintenues, performantes.&lt;/li&gt;
+&lt;li&gt;Communiquer et partager.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour comprendre, j&amp;rsquo;ai besoin de reproduire. Pour reproduire, j&amp;rsquo;ai besoin d&amp;rsquo;expérimenter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il me faut donc un système qui me permette d&amp;rsquo;expérimenter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;les-principaux-composants-du-système&#34;&gt;Les principaux composants du système&lt;/h2&gt;
+&lt;p&gt;Matériel :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Une caméra : Capte et transforme l&amp;rsquo;image.&lt;/li&gt;
+&lt;li&gt;Des servomoteurs : Orientent et focalisent la vue.&lt;/li&gt;
+&lt;li&gt;Un ordinateur : Traite l&amp;rsquo;information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Logiciel :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Une interface utilisateur cliente : &lt;code&gt;anui&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Un programme serveur : &lt;code&gt;anybody&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;organisation-du-projet&#34;&gt;Organisation du projet&lt;/h2&gt;
+&lt;p&gt;Le projet consiste en phases de réflexion, réalisation, expérimentation, évaluation et communication.&lt;/p&gt;
+&lt;h3 id=&#34;réflexion&#34;&gt;Réflexion&lt;/h3&gt;
+&lt;p&gt;Observations, constats, analyses, déductions, raisonnements fournissent les principales sources d&amp;rsquo;idées et d&amp;rsquo;inspiration du projet.&lt;/p&gt;
+&lt;h3 id=&#34;réalisation&#34;&gt;Réalisation&lt;/h3&gt;
+&lt;p&gt;Mettre en oeuvre des solutions qui permettent de répondre aux besoins et aux idées qui émergent des phases de réflexion et d&amp;rsquo;expérimentation.&lt;/p&gt;
+&lt;h3 id=&#34;expérimentation&#34;&gt;Expérimentation&lt;/h3&gt;
+&lt;p&gt;S&amp;rsquo;appuyer sur les solutions mises en oeuvre lors des phases de réalisation et des idées des phases de réflexion pour mettre au point les traitements effectués par le cerveau du système.&lt;/p&gt;
+&lt;h3 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h3&gt;
+&lt;p&gt;Comparer les résultats obtenus à l&amp;rsquo;existant dans le domaine.&lt;/p&gt;
+&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
+&lt;p&gt;L&amp;rsquo;ensemble des phases pourront faire l&amp;rsquo;objet d&amp;rsquo;articles sur 
+&lt;a href=&#34;https://arnaudbuy.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arnaudbuy.github.io&lt;/a&gt;
+.
+Le code source est disponible sur 
+&lt;a href=&#34;https://github.com/arnaudbuy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;
+ sous licence &lt;strong&gt;MIT&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
