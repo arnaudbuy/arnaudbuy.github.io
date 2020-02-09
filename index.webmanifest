@@ -2,8 +2,8 @@
   "name": "Arnaud Buy",
   "short_name": "Arnaud Buy",
   "lang": "fr-fr",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "#EAF04E",
+  "background_color": "#EAF04E",
   "icons": [{
     "src": "/images/icon_hubc26a4e7f6f76d4bf78fabeae17b9cfc_4528_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
